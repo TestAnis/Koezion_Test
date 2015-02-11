@@ -1,6 +1,6 @@
 <?php
 /**
- * Index
+ * Index lalal
  *
  * Cette page est le point d'entrée de l'application
  * Elle est chargée d'initialiser les variables globales utilisées tout au long des développements
